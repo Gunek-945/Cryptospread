@@ -164,13 +164,3 @@ Trading cryptocurrencies involves substantial risk of loss and is not suitable f
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📧 Contact
-
-For questions or collaboration, reach out to:
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-
----
-
-*This strategy is for educational and research purposes only. Past performance is not indicative of future results.*
